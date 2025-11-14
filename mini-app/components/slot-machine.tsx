@@ -1,7 +1,7 @@
+"use client";
 import { useState } from "react";
 import { Share } from "@/components/share";
 import { url } from "@/lib/metadata";
-"use client";
 
 const fruits = ["Apple", "Banana", "Cherry", "Lemon"];
 const fruitImages = {
